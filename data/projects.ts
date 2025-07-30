@@ -68,7 +68,7 @@ export const projects: Project[] = [
       "/images/event/flyer.jpeg",
       "/images/event/health.jpeg",
       "/images/event/master.jpeg",
-      "/images/event/sma.jpeg",
+      "/images/event/sms.jpeg",
       "/images/event/valentine.jpeg",
     ],
   },
@@ -113,7 +113,7 @@ export const projects: Project[] = [
       "/images/new-month/july.jpg",
       "/images/new-month/june.jpeg",
       "/images/new-month/november.jpeg",
-      "/images/new-month/welcome.jpeg",
+      "/images/new-month/welcome.jpg",
     ],
   },
   {
