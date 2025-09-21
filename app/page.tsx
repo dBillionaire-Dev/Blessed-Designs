@@ -13,6 +13,9 @@ export const metadata: Metadata = {
     description:
       "Welcome to Blessing Godson's creative portfolio. Discover innovative design solutions for branding, web design, and visual identity.",
   },
+  icons: {
+    icon: "/favicon.png",
+  },
 }
 
 export const dynamic = "force-dynamic"
