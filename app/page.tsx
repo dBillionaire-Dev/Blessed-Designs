@@ -20,19 +20,9 @@ export const dynamic = "force-dynamic"
 export default async function HomePage() {
   await new Promise((resolve) => setTimeout(resolve, 100))
 
-  // const categoriesMap = new Map<string, { image: string; count: number }>()
-  // projects.forEach((project) => {
-  //   if (!categoriesMap.has(project.category)) {
-  //     categoriesMap.set(project.category, { image: project.image, count: 1 })
-  //   } else {
-  //     const current = categoriesMap.get(project.category)!
-  //     categoriesMap.set(project.category, { ...current, count: current.count + 1 })
-  //   }
-  // })
-
   return (
     <div className="min-h-screen">
-      {/* Hero Section */}
+    
       <section className="py-24 bg-primary">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
